@@ -6,8 +6,8 @@ const MENU = [
   { id:'gravity', name:'Gravity noodles', description:'Hand-pulled noodles, XO, crispy shallot', price:19, category:'In orbit', tag:'Signature' },
   { id:'darkmatter', name:'Dark matter', description:'A5 wagyu, fermented plum, burnt onion', price:34, category:'In orbit', tag:'Chef’s cut' },
   { id:'rings', name:'Rings of Saturn', description:'Tempura squash, miso caramel, shiso', price:16, category:'In orbit', tag:'Vegetarian' },
-  { id:'eclipse', name:'Eclipse', description:'Black sesame, cacao, salted comet caramel', price:12, category:'Re-entry', tag:'Sweet' },
+  { id:'eclipse', name:'Eclipse', description:'Black sesame, cacao, salted comet caramel', price:12, category:'Cosmic desserts', tag:'Sweet', isDessert:true },
   { id:'pulsar', name:'Pulsar tea', description:'Osmanthus, pear, tonic, zero proof', price:9, category:'Re-entry', tag:'Zero proof' }
   ,{ id:'quasar', name:'Quasar tartare', description:'Hand-cut beef, cosmic mustard, caper dust', price:29, category:'In orbit', tag:'Signature' },
-  { id:'comet', name:'Comet tail', description:'Citrus meringue, white chocolate, ginger', price:15, category:'Re-entry', tag:'Sweet' }
+  { id:'comet', name:'Comet tail', description:'Citrus meringue, white chocolate, ginger', price:15, category:'Cosmic desserts', tag:'Sweet', isDessert:true }
 ];
