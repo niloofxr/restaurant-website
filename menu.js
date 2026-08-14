@@ -12,5 +12,9 @@ const MENU = [
   { id:'comet', name:'Comet tail', description:'Citrus meringue, white chocolate, ginger', price:15, category:'Desserts', tag:'Sweet', isDessert:true },
   { id:'moonbeam', name:'Moonbeam spritz', description:'White peach, elderflower, sparkling water, lemon', price:11, category:'Drinks', tag:'Zero proof' },
   { id:'redshift', name:'Redshift soda', description:'Blood orange, rosemary, smoked vanilla, soda', price:10, category:'Drinks', tag:'House soda' },
-  { id:'starlight', name:'Starlight cooler', description:'Cucumber, mint, lime, pressed apple', price:9, category:'Drinks', tag:'Refreshing' }
+  { id:'starlight', name:'Starlight cooler', description:'Cucumber, mint, lime, pressed apple', price:9, category:'Drinks', tag:'Refreshing' },
+  { id:'orbitold', name:'Orbit old fashioned', description:'Bourbon, toasted orange, bitters, black sugar', price:16, category:'Drinks', tag:'Classic' },
+  { id:'nebulafizz', name:'Nebula fizz', description:'Gin, blackberry, lemon, rosemary, soda', price:15, category:'Drinks', tag:'Sparkling' },
+  { id:'cosmiccocoa', name:'Cosmic cocoa', description:'Dark chocolate, cinnamon, sea salt, warm milk', price:10, category:'Drinks', tag:'Warm' },
+  { id:'saturnrings', name:'Saturn rings', description:'Pineapple, coconut, lime, toasted spice', price:13, category:'Drinks', tag:'Tropical' }
 ];
